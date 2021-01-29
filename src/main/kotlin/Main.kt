@@ -50,7 +50,7 @@ fun main() {
     val bardia = Person()
 
     bardia.nickname = "babar"
-    var test: String
+    var test: String?
     test = bardia.nickname
 
 }
